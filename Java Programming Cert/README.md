@@ -1,1 +1,1 @@
-# Java OOP Specialization
+# Java Programming Certificate by Duke University (Coursera)
